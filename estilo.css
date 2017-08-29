@@ -1,0 +1,21 @@
+body {
+	background: green;
+	text-align: center;
+}
+
+p {
+	font-family: fantasy;
+	font-size: xx-small;
+}
+
+a {
+	color: red
+}
+
+.negrito {
+	font-weight: bolder;
+}
+
+#destaque {
+	font-style: italic;
+}
